@@ -1,16 +1,30 @@
-## Hi there 👋
+#  Welcome to My GitHub Profile! 👋
 
-<!--
-**babaicode/babaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+- **Name:** Andrei Maracheuski
+- **Location:** Prague, Czech Republic 🇨🇿
+- **Profession:** Business-Oriented Software Engineer
 
-Here are some ideas to get you started:
+## 🎯 My Interests
+- 🚀 Startups & Software Product Development
+- 🎨 UX/UI Design
+- 💻 Full-Stack Developer
+- 💻 Software Engineering
+- 💻 DevOps
+- 💻 Technical Leading
+- 💻 Business-Oriented Engineering
+- 📊 Data Analysis
+- ⚽️ football
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What Drives Me
+- 📚 Continuous Learning & Exploration
+- 🛠️ Solving Challenges with Impact
+
+## 🏆 Projects I'm Proud Of
+- 👻 [StickerBomber](https://sticker-bomber.co): A platform that allows stream viewers to send stickers to the screen in real time, creating interactive and emotional moments.
+- 🥙 [FreshPoint](https://freshpoint.cz): Ensures that your company always has fresh and delicious food.
+- 📚 [Knihobot.cz](https://knihobot.cz): Маркетплейс для покупки и продажи подержанных книг.
+
+---
+
+📧 Connection with me: andreymarachevskiy@gmail.com
