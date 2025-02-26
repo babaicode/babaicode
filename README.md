@@ -23,7 +23,7 @@
 ## 🏆 Projects I'm Proud Of
 - 👻 [StickerBomber](https://sticker-bomber.co): A platform that allows stream viewers to send stickers to the screen in real time, creating interactive and emotional moments.
 - 🥙 [FreshPoint](https://freshpoint.cz): Ensures that your company always has fresh and delicious food.
-- 📚 [Knihobot.cz](https://knihobot.cz): Маркетплейс для покупки и продажи подержанных книг.
+- 📚 [Knihobot.cz](https://knihobot.cz): A marketplace for buying and selling used books.
 
 ---
 
