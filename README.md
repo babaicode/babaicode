@@ -2,8 +2,8 @@
 
 ## 👀 About Me
 - **Name:** Andrei Maracheuski
-- **Location:** Prague, Czech Republic 🇨🇿
-- **Based:** Mogilev, Belarus 🇧🇾
+- **Currently based in**: Prague, Czech Republic 🇨🇿
+- **Originally from**: Mogilev, Belarus 🇧🇾
 - **Profession:** Business-Oriented Software Engineer
 
 ## 🎯 My Interests
