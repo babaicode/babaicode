@@ -9,7 +9,7 @@
 ## 🎯 My Interests
 - 🚀 Startups & Software Product Development
 - 🎨 UX/UI Design
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Development
 - 💻 Software Engineering
 - 💻 DevOps
 - 💻 Technical Leading
